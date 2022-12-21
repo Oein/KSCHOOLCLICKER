@@ -1,7 +1,7 @@
 # KSCHOOLCLICKER
 
 # 1. 설치
-### 1. [이걸](https://github.com/Oein/KSCHOOLCLICKER/releases/download/m.1.0.1/kclick.apk) 눌러서 apk파일을 받는다.
+### 1. [이걸](https://github.com/Oein/KSCHOOLCLICKER/releases/download/m1.1.0/kclicker1.1.0.apk) 눌러서 apk파일을 받는다.
 
 ### 2. 휴대전화에 손상을 줄 수 있다고 해도 다운로드 한다. ~~내가 구글에 돈 안내서 개발자 돈 안냈다고 겁주는 거임.~~
 
