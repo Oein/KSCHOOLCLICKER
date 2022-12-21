@@ -24,7 +24,7 @@
 ![](https://github.com/Oein/KSCHOOLCLICKER/blob/main/Imgs/Screenshot_20221221-204802_Google%20Play%20Store.jpg)
 
 # 2. 사용 방법
-설치된 `kclicker_mobile`을 실행한다.
+설치된 `kclicker_mobile`을 실행한다. 그럼 지가 알아서 클릭함.
 
 검사를 위해 전송하냐고 물어봐도 `전송하지 않음`을 누른다. ~~내가 구글에 돈 안내서 개발자 돈 안냈다고 겁주는 거임...~~
 ![](https://github.com/Oein/KSCHOOLCLICKER/raw/main/Imgs/Screenshot_20221221-204821_Google%20Play%20Store.jpg)
