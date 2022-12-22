@@ -1,4 +1,4 @@
-# KSCHOOLCLICKER
+# kclicker_mobile
 
 # 1. 설치
 ### 1. [이걸](https://github.com/Oein/KSCHOOLCLICKER/releases/download/m1.1.0/kclicker1.1.0.apk) 눌러서 apk파일을 받는다.
