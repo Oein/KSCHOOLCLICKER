@@ -1,6 +1,10 @@
 # K SCHOOL CLICKER FOR IOS
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rX0smmJc1qA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # 1. 설치
+
+설치 방법 영상은 [https://www.youtube.com/watch?v=rX0smmJc1qA](https://www.youtube.com/watch?v=rX0smmJc1qA)
 
 ### 1. App store 에서 [Userscripts](https://apps.apple.com/kr/app/userscripts/id1463298887)를 다운받는다.
  
