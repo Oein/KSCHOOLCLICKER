@@ -6,6 +6,11 @@
  - [아이폰 버전 설명서](https://github.com/Oein/KSCHOOLCLICKER/blob/main/README_i.md)
  - [컴퓨터(Windows)용 설명서](https://github.com/Oein/KSCHOOLCLICKER/blob/main/README_w.md)
  - [맥용 설명서](https://github.com/Oein/KSCHOOLCLICKER/blob/main/README_a.md)
+ 
+# 문의
+
+링크 : [https://y99.in/rw/856539](https://y99.in/rw/856539)
+비번 : 1230
 
 # 친구들에게 보내는 홍보 메시지
 
