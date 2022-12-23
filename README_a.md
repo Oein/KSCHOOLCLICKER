@@ -21,3 +21,4 @@
 <img width="187" alt="스크린샷 2022-12-23 오후 2 52 44" src="https://user-images.githubusercontent.com/62917247/209279503-f02d7759-3b71-4c24-8783-ca5d1b613356.png">
 <img width="250" alt="스크린샷 2022-12-23 오후 2 53 20" src="https://user-images.githubusercontent.com/62917247/209279570-b751c7ef-6305-4f0b-b501-aa8b8e5f1dc2.png">
 
+### 6. [여기](https://greasyfork.org/scripts/457029-korea-school-clicker-mobile-for-ios/code/Korea%20School%20Clicker%20Mobile%20for%20IOS.user.js)에 들어간다.
