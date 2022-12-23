@@ -16,6 +16,8 @@
 
 ### 4. [여기](https://greasyfork.org/scripts/457029-korea-school-clicker-mobile-for-ios/code/Korea%20School%20Clicker%20Mobile%20for%20IOS.user.js)에 들어간다.
 
+## ! 제발 Safari로 들어가자
+
 ### 5. Safari 왼쪽아래 `가가 퍼즐` 버튼을 누른다.
 
 ![IMG_9F607E414A3B-1](https://user-images.githubusercontent.com/62917247/209277608-b61798e8-9261-44d1-ac85-de069b028d3e.jpeg)
