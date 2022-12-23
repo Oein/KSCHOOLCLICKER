@@ -22,3 +22,18 @@
 <img width="250" alt="스크린샷 2022-12-23 오후 2 53 20" src="https://user-images.githubusercontent.com/62917247/209279570-b751c7ef-6305-4f0b-b501-aa8b8e5f1dc2.png">
 
 ### 6. [여기](https://greasyfork.org/scripts/457029-korea-school-clicker-mobile-for-ios/code/Korea%20School%20Clicker%20Mobile%20for%20IOS.user.js)에 들어간다.
+
+### 7. 주소창에 있는 `</>` 를 누른다.
+
+<img width="51" alt="스크린샷 2022-12-23 오후 2 54 48" src="https://user-images.githubusercontent.com/62917247/209279712-b6c157b1-7549-45e4-8765-c8d324ec1472.png">
+
+### 8. `Click to install` 을 누른다.
+
+<img width="226" alt="스크린샷 2022-12-23 오후 2 55 14" src="https://user-images.githubusercontent.com/62917247/209279772-446492dc-e607-4418-8d9f-9fbfe3e7ad9a.png">
+
+### 9. Install을 누른다.
+
+<img width="263" alt="스크린샷 2022-12-23 오후 2 55 39" src="https://user-images.githubusercontent.com/62917247/209279814-d619556e-cfab-4189-9232-57e4901466b4.png">
+
+# 2. 사용법
+
