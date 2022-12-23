@@ -37,3 +37,4 @@
 
 # 2. 사용법
 
+[K학교전!](https://kschoolclick.netlify.app/) 에 접속하면 알아서 눌러준다.
