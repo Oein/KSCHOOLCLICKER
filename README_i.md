@@ -6,11 +6,11 @@
  
 <img width="537" alt="스크린샷 2022-12-23 오후 2 30 41" src="https://user-images.githubusercontent.com/62917247/209277001-3ab4a78f-8cfd-4f8b-94f8-f292f58397ec.png">
 
-### 2. 설정 > Safari > 확장 프로그램 > Userscripts에 들어가 켠다.
+### 2. 설정 앱 > Safari > 확장 프로그램 > Userscripts에 들어가 켠다.
 
 ![IMG_891A8D99098D-1](https://user-images.githubusercontent.com/62917247/209277349-4a9463bc-78ae-4544-9936-3606f81e25c3.jpeg)
 
-### 3. 설정 > Safari > 확장 프로그램 > Userscripts > 권한 > 모든 웹 사이트를 허용으로 설정한다.
+### 3. 설정  > Safari > 확장 프로그램 > Userscripts > 권한 > 모든 웹 사이트를 허용으로 설정한다.
 
 ![IMG_0958A32A3D71-1](https://user-images.githubusercontent.com/62917247/209277282-cf769c71-1e47-4a0d-8a19-489818b41e0b.jpeg)
 
