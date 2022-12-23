@@ -6,3 +6,17 @@
  - [아이폰 버전 설명서](https://github.com/Oein/KSCHOOLCLICKER/blob/main/README_i.md)
  - [컴퓨터(Windows)용 설명서](https://github.com/Oein/KSCHOOLCLICKER/blob/main/README_w.md)
  - [맥용 설명서](https://github.com/Oein/KSCHOOLCLICKER/blob/main/README_a.md)
+
+# 친구들에게 보내는 홍보 메시지
+
+```
+https://github.com/Oein/KSCHOOLCLICKER 
+들어가면 
+모바일과 아이폰버전 
+컴퓨터와 맥버전
+설명서 리스트가 나옴.
+님이 설치할 거 설명서 보고 설치하셈.
+
+KCLICKER 익명 채팅방 : https://y99.in/rw/856539
+비밀번호 : 1230
+```
