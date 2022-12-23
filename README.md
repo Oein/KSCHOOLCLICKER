@@ -1,4 +1,4 @@
-# KSCHOOLCLICKER
+# [KSCHOOLCLICK](https://kschoolclick.netlify.app/)ER
 
 이 프로그램이 작동하는 곳은 [K학교전!](https://kschoolclick.netlify.app/) 입니다.
 
