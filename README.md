@@ -1,4 +1,4 @@
-# 매크로 사용시 ip밴 으로 서비스가 변경됬음. 절대 쓰지 
+# 매크로 사용시 ip밴 으로 서비스가 변경됬음. 절대 쓰지 마셈
 
 # [KSCHOOLCLICK](https://kschoolclick.netlify.app/)ER
 
