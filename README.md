@@ -1,3 +1,5 @@
+# 매크로 사용시 ip밴 으로 서비스가 변경됬음. 절대 쓰지 
+
 # [KSCHOOLCLICK](https://kschoolclick.netlify.app/)ER
 
 이 프로그램이 작동하는 곳은 [K학교전!](https://kschoolclick.netlify.app/) 입니다.
